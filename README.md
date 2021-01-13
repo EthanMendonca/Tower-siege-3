@@ -1,2 +1,2 @@
-# Tower-siege-3
-Shooting polygon at blocks for points
+# tower-siege-3
+tower siege 3
